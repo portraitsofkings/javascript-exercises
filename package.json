@@ -15,6 +15,7 @@
   "homepage": "https://github.com/TheOdinProject/javascript-exercises#readme",
   "devDependencies": {
     "@eslint/js": "^10.0.1",
+    "@types/jest": "^30.0.0",
     "case-anything": "^2.1.13",
     "eslint": "^10.0.2",
     "globals": "^17.3.0",
